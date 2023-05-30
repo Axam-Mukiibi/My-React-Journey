@@ -1,0 +1,15 @@
+.title {
+    font-weight: bold;
+    text-align: left;
+}
+
+.display {
+    border: 1px solid grey;
+    border-radius: 5px;
+    font-family: Georgia;
+    background-color: beige;
+    margin: 10px;
+    padding: 7px;
+
+
+}

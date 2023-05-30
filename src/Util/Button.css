@@ -1,0 +1,17 @@
+.press{
+    display: inline-block;
+    color: white;
+    background: green;
+    border-radius: 3px;
+    padding: 10px 30px;
+    font-size: 15px;
+    cursor: pointer;
+    border: none;
+    transition-duration: 0.4s;
+}
+
+.press:hover {
+    border: 1px solid black;
+    background: white;
+    color: black;
+}
