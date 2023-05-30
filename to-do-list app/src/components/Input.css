@@ -1,0 +1,14 @@
+.entered {
+    border: none;
+    display: grid;
+    flex: content;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+}
+
+.paragraph {
+    font-weight: bold;
+    text-align: left;
+}
+

@@ -1,0 +1,9 @@
+.container {
+    border: 2px solid black;
+    box-sizing: content-box;
+    display: block;
+    width: 70%;
+    padding: 20px;
+    margin: 20px 100px 100px 100px; 
+    border-radius: 1rem;
+}
